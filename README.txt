@@ -4,10 +4,16 @@ An Exploratory Data Analysis Performed by Nnamdi Leonard
 -------------------------------------------------------------------------------------------------------------------
 
 Order Of Execution:
+- Business Requirement
 - Importation of required Python Libraries and dataset.
 - Simple Linear Regression Technique and Conclusion
 - Multiple Linear Regression Technique
 - Polynomial (Non-Linear) Regression Technique
+
+-------------------------------------------------------------------------------------------------------------------
+BUSINESS REQUIREMENT
+
+For a vehicle whose engine size is 2.4, predict the corresponding Co2 Emission using the historical data as given.
 
 -------------------------------------------------------------------------------------------------------------------
 DETAILS
